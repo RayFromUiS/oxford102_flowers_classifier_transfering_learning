@@ -33,8 +33,8 @@ It contains 3 main steps._
   * From `torchvision.models` import resnet101 as model architecture
   * Replace **fc** layer with own structure,and define **loss function** and **optimizer**
   * Feed **train data loader and validation data loader** to traing epoch,which gives a 90% accuracy.
-  * test on data loader for the test data as well, having accuracy of 88%
-  * saving check point with `save_check_point(model,train_dataset,check_point)` function
+  * Test on data loader for the test data as well, having accuracy of 88%
+  * Save check point with `save_check_point(model,train_dataset,check_point)` function
  3. Image recognization
   * Load check point with `load_checkpoint(checkpoint)` return the model
   * Using `PIL.Image` and `numpy` to accomplish image data preprocessing
