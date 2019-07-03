@@ -6,7 +6,7 @@ It contains 3 main steps._
 2. Train the image classifier on your dataset
 3. Use the trained classifier to predict image content
 
-# Project sketch
+# Project flow
 * Load and preprocess the image dataset
   * Training data augmentation
   * Data normalization
