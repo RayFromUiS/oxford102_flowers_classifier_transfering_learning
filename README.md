@@ -24,7 +24,7 @@ It contains 3 main steps._
   * Class recoginization
 
 # Implementation
-** import relevant libraries
+**import relevant libraries**
 1. Data loading and Preprocessing
   * Download data from [here](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
   * Using `torchvision.transforms` and `transform.Compose` to preprocessing image files
