@@ -46,8 +46,8 @@ It contains 3 main steps._
     * python train.py --learning_rate, define learning speeed
     * python train.py --gpu, enable user traing data on GPU
     * python train.py --hidden_units, allow user define their hidden units
-   * predict.py
-    * python predict.py --topk, allower model to show the top possibility number of prediction
+  * predict.py
+    * python predict.py --topk, allower model to show the number of top possibility 
  
 # Software and libraries
 1. Python 3.7
